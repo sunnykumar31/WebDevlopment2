@@ -41,7 +41,7 @@ nav ul li a:hover{
     width: 70px;
     height: 70px;
     border: 1px solid white;
-    background-image: url(../images/tech-logo-build-27093829-videohive-download-free-hunterae-com-3.jpg);
+    background-image: url(./images/tech-logo-build-27093829-videohive-download-free-hunterae-com-3.jpg);
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -65,7 +65,7 @@ nav ul li a:hover{
     color: rgb(2, 28, 29);
     background-color: #100e1080;
     background-size: contain;
-    background-image:url('../images/Internet_Business_Technology_HD_Wallpaper_11_2560x1600.jpg');
+    background-image:url('./images/Internet_Business_Technology_HD_Wallpaper_11_2560x1600.jpg');
     background-repeat: no-repeat;
     object-position: 100%;
     object-fit: fill;
@@ -188,7 +188,7 @@ h2{
     justify-content:space-around;
     align-items: center;
     margin-top: 20px;
-    background-image: url('../images/pexels-photo-2693529.jpeg');
+    background-image: url('./images/pexels-photo-2693529.jpeg');
     background-position: 50%;
     background-repeat: no-repeat;
 }
